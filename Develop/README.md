@@ -1,7 +1,7 @@
-# k vds 
-![Github liscense](https://img.shields.io/badge/license-GNUGPLv3-green.svg) 
+# Professional Readme
+![Github liscense](https://img.shields.io/badge/license-MIT-green.svg) 
 ## Description
-bkcd
+The User wants to quickly create a README.md file for their project in the terminal command line using node.js inquirer.
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -10,14 +10,14 @@ bkcd
 - [License](#license)
 
 ## Installation Requirements
-nkcsa
+1. Clone this Respitory 2. Install the following:
 ## Usage
-bkcs
+![Alt text](../assets/Developutils.png?raw=true "Whitneys-React-Portfolio")
 ## Credit
-jcsk
+i dont have any collaborations
 ## License
 
 * [License](#license)
 
 ##
-## Under GNUGPLv3 license.
+## Under MIT license.
